@@ -1,0 +1,1 @@
+Run all tests from GetTest class.
